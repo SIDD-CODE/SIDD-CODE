@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidd-code" alt="sidd-code" /></a> </p>
 
-- 🔭 I’m currently working on **medical record database management system**
-
 - 🌱 I’m currently learning **data structures, problem solving skills**
 
 - 👯 I’m looking to collaborate on **any interesting project**
