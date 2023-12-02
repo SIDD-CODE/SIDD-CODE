@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
-<h3 align="center">A CSE Graduate who loves exploring new field</h3>
+<h3 align="center">CSE graduate who loves exploring new field</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidd-code" alt="sidd-code" /></a> </p>
